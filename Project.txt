@@ -1,1 +1,2 @@
-This project is all about going to practise git hub to git ..vice-versa. Git and Git hub helpful maintaining version control of source code.
+This project is all about going to practise git hub to git ..vice-versa. Github is source code management tool.
+
